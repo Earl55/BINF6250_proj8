@@ -25,4 +25,4 @@ on working alone on this assignment. I did not think I could come up with the pr
 Also, using print statements at several lines helped me track of what I was outputting.
 
 # Generative AI Appendix
-I used AI to help answer some questions about the appending correctly to the dictionaries. 
+I used AI to help answer some questions about the appending correctly to the dictionaries. Also to see about what function to use to shpw the max and index which is the Argmax function
